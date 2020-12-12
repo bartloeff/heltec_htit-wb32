@@ -1,2 +1,2 @@
 # kicad-heltec-esp32
-Heltec HTIT WB32 - ESP32 kicad schematic symbol and PCB footprint
+Kicad schematic symbol and PCB footprint for the Heltec HTIT WB32 - ESP32

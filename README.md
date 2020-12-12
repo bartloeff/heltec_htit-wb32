@@ -1,5 +1,5 @@
-# kiCad-heltec-esp32
-KiCad schematic symbol and PCB footprint for the Heltec HTIT WB32 - ESP32.
+# KiCad heltec esp32
+KiCad schematic symbol and PCB footprint for the Heltec HTIT WB32 OLED - ESP32.
 Tested.
 
 # Heltec NEW WIFI Kit 32 Pinout Diagram
